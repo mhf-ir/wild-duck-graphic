@@ -1,0 +1,70 @@
+{
+  "defaults": {
+    "favicon-16.png": {
+      "width": 16,
+      "height": 16
+    },
+    "favicon-32.png": {
+      "width": 32,
+      "height": 32
+    },
+    "favicon-96.png": {
+      "width": 96,
+      "height": 96
+    },
+    "android-chrome-36.png": {
+      "width": 36,
+      "height": 36
+    },
+    "android-chrome-48.png": {
+      "width": 48,
+      "height": 48
+    },
+    "android-chrome-72.png": {
+      "width": 72,
+      "height": 72
+    },
+    "android-chrome-128.png": {
+      "width": 128,
+      "height": 128
+    },
+    "android-chrome-144.png": {
+      "width": 144,
+      "height": 144
+    },
+    "android-chrome-192.png": {
+      "width": 192,
+      "height": 192
+    },
+    "android-chrome-256.png": {
+      "width": 256,
+      "height": 256
+    },
+    "android-chrome-384.png": {
+      "width": 384,
+      "height": 384
+    },
+    "android-chrome-512.png": {
+      "width": 512,
+      "height": 512
+    }
+  },
+  "apple": {
+    "apple-touch-icon-152.png": {
+      "width": 152,
+      "height": 152
+    },
+    "apple-touch-icon-167.png": {
+      "width": 167,
+      "height": 167
+    },
+    "apple-touch-icon-120.png": {
+      "width": 120,
+      "height": 120
+    },
+    "apple-touch-icon-180.png": {
+      "width": 180,
+      "height": 180
+    }
+  }
+}
